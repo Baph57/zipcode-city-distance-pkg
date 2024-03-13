@@ -1,5 +1,5 @@
 {
-  "name": "zipcode-city-distance",
+  "name": "zipcode-city-distance-more-zipcodes",
   "version": "1.0.6",
   "description": "Simple zipcode/city distance calculator and all information you need about cities and zipcodes, including coordinates, states etc.",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buddyeorl/zipcode-city-distance-module.git"
+    "url": "git+https://github.com/Baph57/zipcode-city-distance-pkg.git"
   },
   "keywords": [
     "distance",
@@ -21,7 +21,7 @@
     "city",
     "info"
   ],
-  "author": "A. Lizarraga <alexdatavault@gmail.com> <https://github.com/buddyeorl>",
+  "author": "A. Lizarraga <alexdatavault@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/buddyeorl/zipcode-city-distance-module/issues"
